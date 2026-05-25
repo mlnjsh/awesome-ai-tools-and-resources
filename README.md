@@ -250,6 +250,7 @@
 | [Midjourney](https://www.midjourney.com/) | Commercial | Highest quality AI art generation |
 | [DALL-E 3](https://openai.com/dall-e-3) | Commercial | OpenAI image gen (integrated in ChatGPT) |
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Commercial | Commercially safe AI image generation |
+| [LandscapioAI](https://www.landscapioai.com/) | Commercial | AI landscape and garden design generator for outdoor makeover concepts |
 | [Ideogram](https://ideogram.ai/) | Commercial | Best AI text rendering in images |
 | [Flux](https://blackforestlabs.ai/) | Open-Source | Black Forest Labs state-of-the-art open model |
 | [Stable Diffusion 3](https://stability.ai/) | Open-Source | Stability AI open image model |
