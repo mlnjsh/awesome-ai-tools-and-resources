@@ -283,6 +283,7 @@
 | [Grammarly](https://www.grammarly.com/) | AI writing assistant |
 | [Notion AI](https://www.notion.so/product/ai) | AI writing within Notion workspace |
 | [Writesonic](https://writesonic.com/) | AI content and SEO writing |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars) |
 
 ---
 
