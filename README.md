@@ -18,6 +18,7 @@
 - [Open-Source AI Alternatives](#open-source-ai-alternatives)
 - [AI Search Engines](#ai-search-engines)
 - [AI Productivity Tools](#ai-productivity-tools)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
