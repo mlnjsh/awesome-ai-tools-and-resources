@@ -160,6 +160,7 @@
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Commercial | Fast, high-quality video generation |
 | [Veo 2](https://deepmind.google/technologies/veo/) | Commercial | Google DeepMind video generation |
 | [HailuoAI / MiniMax](https://hailuoai.video/) | Commercial | Chinese video gen with strong motion |
+| [ImagineClip](https://imagineclip.com/) | Freemium | Avatar clips, stylized scenes, and social-ready videos from prompts and images |
 | [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) | Open-Source | Stability AI open video model |
 | [CogVideo](https://github.com/THUDM/CogVideo) | Open-Source | Open-source text-to-video model |
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Source | Open reproduction of Sora-like video gen |
