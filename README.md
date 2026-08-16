@@ -172,6 +172,7 @@
 | [Descript](https://www.descript.com/) | Edit video by editing text transcript |
 | [Kapwing](https://www.kapwing.com/) | AI-powered video editing in the browser |
 | [OpusClip](https://www.opus.pro/) | Auto-clip long videos into viral shorts |
+| [videos.social](https://videos.social/?utm_source=mlnjsh-awesome-ai-tools-and-resources&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos |
 | [Captions](https://www.captions.ai/) | Auto-captions, translation, eye-contact fix |
 | [HeyGen](https://www.heygen.com/) | AI avatar videos, lip-sync translation |
 | [Synthesia](https://www.synthesia.io/) | AI avatars for training/presentation videos |
