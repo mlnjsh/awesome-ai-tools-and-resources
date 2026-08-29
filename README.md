@@ -299,6 +299,7 @@
 | [Continue](https://github.com/continuedev/continue) | Open-Source | Open-source AI code assistant for IDEs |
 | [Tabby](https://github.com/TabbyML/tabby) | Open-Source | Self-hosted AI coding assistant |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open-Source | Open-source AI software engineer |
+| [Agent QA](https://github.com/vostride/agent-qa) | Source-Available | Natural-language web and mobile testing with MCP and coding-agent skills |
 
 ---
 
