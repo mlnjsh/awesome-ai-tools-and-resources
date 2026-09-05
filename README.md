@@ -120,6 +120,7 @@
 
 | Newsletter | Frequency | Description |
 |------------|-----------|-------------|
+| [AI Weekly](https://aiweekly.co/) | 3x weekly | Models, agents, research, and policy ranked from expert signals |
 | [The Batch](https://www.deeplearning.ai/the-batch/) | Weekly | Andrew Ng's AI newsletter — curated AI news |
 | [TLDR AI](https://tldr.tech/ai) | Daily | 5-minute daily AI news digest |
 | [Ben's Bites](https://bensbites.beehiiv.com/) | Daily | AI news and tools for builders |
