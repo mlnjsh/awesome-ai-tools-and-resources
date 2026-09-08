@@ -177,6 +177,7 @@
 | [Synthesia](https://www.synthesia.io/) | AI avatars for training/presentation videos |
 | [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) | Video upscaling and enhancement |
 | [Latte Social](https://www.latte.social/) | Auto-clip podcasts and long-form content |
+| [LiveFaceSwap AI](https://livefaceswap.ai/) | Real-time webcam face swap with browser preview and desktop camera output |
 
 ---
 
