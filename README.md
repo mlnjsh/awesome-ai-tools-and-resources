@@ -283,6 +283,7 @@
 | [Grammarly](https://www.grammarly.com/) | AI writing assistant |
 | [Notion AI](https://www.notion.so/product/ai) | AI writing within Notion workspace |
 | [Writesonic](https://writesonic.com/) | AI content and SEO writing |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker + AI resume builder |
 
 ---
 
