@@ -177,6 +177,7 @@
 | [Synthesia](https://www.synthesia.io/) | AI avatars for training/presentation videos |
 | [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) | Video upscaling and enhancement |
 | [Latte Social](https://www.latte.social/) | Auto-clip podcasts and long-form content |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed local CLI and MCP toolkit for agent-driven video editing and composition with editable plan.json timelines |
 
 ---
 
