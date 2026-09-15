@@ -391,6 +391,7 @@ Alternatives to commercial AI products — run locally, self-host, or modify fre
 | [Arc Browser](https://arc.net/) | AI-enhanced browsing experience |
 | [Raycast AI](https://www.raycast.com/ai) | AI commands in macOS launcher |
 | [Pieces](https://pieces.app/) | AI-powered developer snippet manager |
+| [Orkas](https://orkas.ai/?source=gh_mlnjsh) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. |
 
 ---
 
