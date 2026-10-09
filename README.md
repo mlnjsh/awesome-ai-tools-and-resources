@@ -267,6 +267,7 @@
 | [Photoroom](https://www.photoroom.com/) | AI product photo editing |
 | [Magnific AI](https://magnific.ai/) | AI image upscaling and enhancement |
 | [Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything) | Open-source image segmentation |
+| [Stunna](https://stunna-app.com/) | AI photo editor for iPhone and Android with camera-inspired looks, lighting edits and pose guides; free download with optional Pro |
 
 ---
 
