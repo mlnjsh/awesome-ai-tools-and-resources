@@ -217,6 +217,7 @@
 | [Cleanvoice](https://cleanvoice.ai/) | Remove filler words, silence, noise from podcasts |
 | [Podcastle](https://podcastle.ai/) | AI podcast recording and editing |
 | [Descript](https://www.descript.com/) | Edit audio by editing transcript |
+| [QuietTake Noise Remover](https://noiseremover.site/) | Free browser-local RNNoise/WASM speech noise reduction, original/cleaned comparison and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter; no account or audio upload required |
 
 ---
 
