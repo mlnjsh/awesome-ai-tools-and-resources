@@ -144,6 +144,7 @@
 | [Ars Technica AI](https://arstechnica.com/ai/) | Technical AI journalism |
 | [VentureBeat AI](https://venturebeat.com/category/ai/) | Enterprise AI news |
 | [MIT Technology Review](https://www.technologyreview.com/topic/artificial-intelligence/) | In-depth AI features |
+| [AI Tools Radar](https://aitoolsradar.com/en/news) | Source-linked AI news and multilingual discovery resources; public browsing is free, with separate paid vendor submission and promotion services |
 
 ---
 
