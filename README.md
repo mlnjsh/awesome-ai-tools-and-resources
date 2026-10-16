@@ -267,6 +267,7 @@
 | [Photoroom](https://www.photoroom.com/) | AI product photo editing |
 | [Magnific AI](https://magnific.ai/) | AI image upscaling and enhancement |
 | [Segment Anything (SAM)](https://github.com/facebookresearch/segment-anything) | Open-source image segmentation |
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | Ficory LLC가 제공하는 기업급 만화 리더는 개인 사용자의 일괄·맞춤 번역을 지원하고, 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공합니다. API는 개인 작업 흐름에 번역 기능을 연결하며, 제품이 지원하는 모든 번역 언어를 사용할 수 있습니다. 무료 이용과 유료 기능을 제공합니다. |
 
 ---
 
