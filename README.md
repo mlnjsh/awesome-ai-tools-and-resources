@@ -10,6 +10,7 @@
 - [FAANG/MAANG Tech Blogs](#faangmaang-tech-blogs)
 - [AI News & Newsletters](#ai-news--newsletters)
 - [AI Video Tools](#ai-video-tools)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [AI Audio & Music Tools](#ai-audio--music-tools)
 - [AI Presentation & PPT Tools](#ai-presentation--ppt-tools)
 - [AI Image Tools](#ai-image-tools)
