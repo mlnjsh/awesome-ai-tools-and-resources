@@ -376,7 +376,7 @@ Alternatives to commercial AI products — run locally, self-host, or modify fre
 | [Tavily](https://tavily.com/) | AI search API for agents |
 | [Exa](https://exa.ai/) | Neural search engine / API |
 | [SearXNG](https://github.com/searxng/searxng) | Open-source metasearch engine |
-| [Arcmira](https://arcmira.com) | YouTube transcript search for timestamped quotes and speaker appearances, with an [API and MCP](https://arcmira.com/docs) for AI agents |
+| [Arcmira](https://arcmira.com) | YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API and MCP](https://arcmira.com/docs) for AI agents |
 
 ---
 
