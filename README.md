@@ -121,6 +121,7 @@
 | Newsletter | Frequency | Description |
 |------------|-----------|-------------|
 | [The Batch](https://www.deeplearning.ai/the-batch/) | Weekly | Andrew Ng's AI newsletter — curated AI news |
+| [AIHOT Weekly](https://aihot.news/weekly) | Weekly | Chinese-language AI industry briefing covering model releases, product updates, and research, with source links. |
 | [TLDR AI](https://tldr.tech/ai) | Daily | 5-minute daily AI news digest |
 | [Ben's Bites](https://bensbites.beehiiv.com/) | Daily | AI news and tools for builders |
 | [The Neuron](https://www.theneurondaily.com/) | Daily | AI news in plain English |
